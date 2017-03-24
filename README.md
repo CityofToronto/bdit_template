@@ -4,9 +4,9 @@
 ## Table of Contents
 1. [Purpose](#purpose)
 2. [How to use](#how-to-use)
-  * [Create a New Repository](#create-a-new-repository)
-  * [Use Issues](#use-issues-to-manage-tasks)
-  * [Create a Project Board](#create-a-project-board)
+   * [Create a New Repository](#create-a-new-repository)
+   * [Use Issues](#use-issues-to-manage-tasks)
+   * [Create a Project Board](#create-a-project-board)
 3. [How to contribute](#how-to-contribute)  
 
 ## 1. Purpose
